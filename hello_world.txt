@@ -1,1 +1,1 @@
-The dog with the
+Learning Git Basics with Odin Project.
